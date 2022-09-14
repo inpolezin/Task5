@@ -9,8 +9,8 @@
         <module name="spring-beans" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-beans" target="17" />
+    <bytecodeTargetLevel target="8">
+      <module name="spring-beans" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
